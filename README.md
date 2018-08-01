@@ -1,1 +1,14 @@
 # PAT-Advanced-Level-Practice
+PAT (Advanced Level) Practice 
+2018年PAT 程序设计能力考试 Programming Ability Test
+
+浙江大学紫金港校区： 季江民, jijm@zju.edu.cn
+
+Dev C++ 5.10；
+Code::Blocks 16.01；
+
+Java SE Development Kit 9.0.1；
+Eclipse Oxygen.2 4.7.2；
+
+Python解释器（3.6.5）；
+PyCharm Community Edition
