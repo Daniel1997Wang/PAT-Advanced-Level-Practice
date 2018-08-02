@@ -8,14 +8,16 @@ Endlish_number= {0:"zero",  1:"one",
                  8:"eight", 9:"nine",}
 
 def main():
+    #输入
     number = int(input(""))
+    #操作
     sum = 0
     while(number != 0):
         sum = sum + number % 10
         number = number // 10
 
     sum_str = str(sum)
-
+    #输出
     for i in range(len(sum_str)):
         print(Endlish_number[int(sum_str[i])],end="")
         if(i != (len(sum_str) - 1)):
