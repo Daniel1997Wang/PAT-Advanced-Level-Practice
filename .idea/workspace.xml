@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6732de4a-ffa1-4700-b4a7-d52c92d39357" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice/1011-1020/1011 World Cup Betting (20).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +22,7 @@
     <session id="1343039879">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
@@ -56,13 +55,13 @@
           <entry key="Python Console" value="68" />
           <entry key="md" value="24" />
           <entry key="py" value="2478" />
-          <entry key="txt" value="108" />
+          <entry key="txt" value="119" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="24" />
-          <entry key="PLAIN_TEXT" value="108" />
+          <entry key="PLAIN_TEXT" value="119" />
           <entry key="Python" value="2546" />
         </counts>
       </usages-collector>
@@ -73,8 +72,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Practice/1011-1020/1011 World Cup Betting (20).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            <state relative-caret-position="145">
+              <caret line="17" column="7" lean-forward="true" selection-end-line="50" selection-end-column="10" />
               <folding>
                 <marker date="1533397305734" expanded="true" signature="118:382" ph="..." />
               </folding>
@@ -129,9 +128,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="672" />
-    <option name="y" value="12" />
-    <option name="width" value="1134" />
+    <option name="x" value="671" />
+    <option name="y" value="11" />
+    <option name="width" value="1135" />
     <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -398,19 +397,25 @@
       <option name="project" value="LOCAL" />
       <updated>1533182000023</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="提交第1011题目代码">
+      <created>1533397401561</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1533397401561</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="538" y="10" width="907" height="872" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21908127" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12466488" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37567568" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37265417" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -444,7 +449,8 @@
     <MESSAGE value="提交1113题" />
     <MESSAGE value="提交1120题" />
     <MESSAGE value="更改相关路径文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="更改相关路径文件" />
+    <MESSAGE value="提交第1011题目代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交第1011题目代码" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE">
@@ -500,8 +506,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/1011-1020/1011 World Cup Betting (20).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        <state relative-caret-position="145">
+          <caret line="17" column="7" lean-forward="true" selection-end-line="50" selection-end-column="10" />
           <folding>
             <marker date="1533397305734" expanded="true" signature="118:382" ph="..." />
           </folding>
