@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6732de4a-ffa1-4700-b4a7-d52c92d39357" name="Default Changelist" comment="">
+    <list default="true" id="6732de4a-ffa1-4700-b4a7-d52c92d39357" name="Default Changelist" comment="提交第1011题目代码">
+      <change afterPath="$PROJECT_DIR$/Practice/1021-1030/1027 Colors in Mars (20).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PAT-Advanced-Level-Practice.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/PAT-Advanced-Level-Practice.xlsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +14,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1120_Friend_Numbers20_.coverage" NAME="1120 Friend Numbers（20 ） Coverage Results" MODIFIED="1533180888809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1111-1120" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1027_Colors_in_Mars__20_.coverage" NAME="1027 Colors in Mars (20) Coverage Results" MODIFIED="1533442204427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1021-1030" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1005_Spell_It_Right__20_.coverage" NAME="1005 Spell It Right (20) Coverage Results" MODIFIED="1533168299680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1001-1010" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1011_World_Cup_Betting__20_.coverage" NAME="1011 World Cup Betting (20) Coverage Results" MODIFIED="1533397306062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1011-1020" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1006_Sign_In_and_Sign_Out__25_.coverage" NAME="1006 Sign In and Sign Out (25) Coverage Results" MODIFIED="1533168369738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1001-1010" />
@@ -22,16 +25,16 @@
     <session id="1343039879">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,29 +43,29 @@
           <entry key="gitattributes" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="md" value="3" />
-          <entry key="py" value="11" />
+          <entry key="py" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="11" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="68" />
           <entry key="md" value="24" />
-          <entry key="py" value="2478" />
-          <entry key="txt" value="119" />
+          <entry key="py" value="3150" />
+          <entry key="txt" value="141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="24" />
-          <entry key="PLAIN_TEXT" value="119" />
-          <entry key="Python" value="2546" />
+          <entry key="PLAIN_TEXT" value="141" />
+          <entry key="Python" value="3218" />
         </counts>
       </usages-collector>
     </session>
@@ -70,12 +73,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practice/1011-1020/1011 World Cup Betting (20).py">
+        <entry file="file://$PROJECT_DIR$/Practice/1021-1030/1027 Colors in Mars (20).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="17" column="7" lean-forward="true" selection-end-line="50" selection-end-column="10" />
+            <state relative-caret-position="120">
+              <caret line="33" column="24" selection-end-line="38" selection-end-column="10" />
               <folding>
-                <marker date="1533397305734" expanded="true" signature="118:382" ph="..." />
+                <element signature="e#178#327#0" />
+                <element signature="e#521#592#0" />
+                <marker date="1533442237330" expanded="true" signature="279:281" ph="..." />
               </folding>
             </state>
           </provider>
@@ -118,6 +123,7 @@
         <option value="$PROJECT_DIR$/1111-1120/1120 Friend Numbers（20 ）.py" />
         <option value="$PROJECT_DIR$/Practice/1011-1020/1011.py" />
         <option value="$PROJECT_DIR$/Practice/1011-1020/1011 World Cup Betting (20).py" />
+        <option value="$PROJECT_DIR$/Practice/1021-1030/1027 Colors in Mars (20).py" />
       </list>
     </option>
   </component>
@@ -128,8 +134,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="671" />
-    <option name="y" value="11" />
+    <option name="x" value="670" />
+    <option name="y" value="10" />
     <option name="width" value="1135" />
     <option name="height" value="1090" />
   </component>
@@ -139,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,22 +157,11 @@
               <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="1011-1020" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="1111-1120" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,29 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1011 World Cup Betting (20)">
-    <configuration name="1006 Sign In and Sign Out (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT-Advanced-Level-Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1001-1010" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1001-1010/1006 Sign In and Sign Out (25).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1027 Colors in Mars (20)">
     <configuration name="1008 Elevator (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT-Advanced-Level-Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -247,6 +219,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1011-1020/1011 World Cup Betting (20).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1027 Colors in Mars (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT-Advanced-Level-Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/1021-1030" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1021-1030/1027 Colors in Mars (20).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,19 +294,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1006 Sign In and Sign Out (25)" />
       <item itemvalue="Python.1008 Elevator (20)" />
       <item itemvalue="Python.1113 Integer Set Partition（25 ）" />
       <item itemvalue="Python.1120 Friend Numbers（20 ）" />
       <item itemvalue="Python.1011 World Cup Betting (20)" />
+      <item itemvalue="Python.1027 Colors in Mars (20)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1027 Colors in Mars (20)" />
         <item itemvalue="Python.1011 World Cup Betting (20)" />
         <item itemvalue="Python.1120 Friend Numbers（20 ）" />
         <item itemvalue="Python.1113 Integer Set Partition（25 ）" />
         <item itemvalue="Python.1008 Elevator (20)" />
-        <item itemvalue="Python.1006 Sign In and Sign Out (25)" />
       </list>
     </recent_temporary>
   </component>
@@ -404,18 +398,26 @@
       <option name="project" value="LOCAL" />
       <updated>1533397401561</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="修改第1011题目代码（删除冗余的代码及注释）">
+      <created>1533397674580</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1533397674580</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12466488" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12734585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37265417" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32573727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -450,7 +452,8 @@
     <MESSAGE value="提交1120题" />
     <MESSAGE value="更改相关路径文件" />
     <MESSAGE value="提交第1011题目代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交第1011题目代码" />
+    <MESSAGE value="修改第1011题目代码（删除冗余的代码及注释）" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改第1011题目代码（删除冗余的代码及注释）" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/LICENSE">
@@ -506,10 +509,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/1011-1020/1011 World Cup Betting (20).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="17" column="7" lean-forward="true" selection-end-line="50" selection-end-column="10" />
+        <state relative-caret-position="244">
+          <caret line="33" column="21" lean-forward="true" selection-end-line="42" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/1021-1030/1027 Colors in Mars (20).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="33" column="24" selection-end-line="38" selection-end-column="10" />
           <folding>
-            <marker date="1533397305734" expanded="true" signature="118:382" ph="..." />
+            <element signature="e#178#327#0" />
+            <element signature="e#521#592#0" />
+            <marker date="1533442237330" expanded="true" signature="279:281" ph="..." />
           </folding>
         </state>
       </provider>
