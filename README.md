@@ -12,3 +12,9 @@ Eclipse Oxygen.2 4.7.2；
 
 Python解释器（3.6.5）；
 PyCharm Community Edition
+
+参考书籍资料：
+
+Fundamentals Of Python: Data Structures(Kenneth A.Lambert)
+
+数据结构（C语言版）（严蔚敏、吴伟民）
