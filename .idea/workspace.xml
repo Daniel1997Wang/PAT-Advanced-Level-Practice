@@ -9,11 +9,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6732de4a-ffa1-4700-b4a7-d52c92d39357" name="Default Changelist" comment="提交1065题代码">
-      <change afterPath="$PROJECT_DIR$/Practice/1061-1070/1065 A+B and C (64bit) (20).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+    <list default="true" id="6732de4a-ffa1-4700-b4a7-d52c92d39357" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PAT-Advanced-Level-Practice.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/PAT-Advanced-Level-Practice.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/1021-1030/1023 Have Fun with Numbers (20).py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/1021-1030/1023 Have Fun with Numbers (20).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/考试复习指南.md" beforeDir="false" afterPath="$PROJECT_DIR$/考试复习指南.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +26,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$test.coverage" NAME="test Coverage Results" MODIFIED="1533555589708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础数据结构练习" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1027_Colors_in_Mars__20_.coverage" NAME="1027 Colors in Mars (20) Coverage Results" MODIFIED="1533442204427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1021-1030" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1002_A_B_for_Polynomials__25_.coverage" NAME="1002 A+B for Polynomials (25) Coverage Results" MODIFIED="1533663481314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1001-1010" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1023_Have_Fun_with_Numbers__20_.coverage" NAME="1023 Have Fun with Numbers (20) Coverage Results" MODIFIED="1533721316979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1021-1030" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1005_Spell_It_Right__20_.coverage" NAME="1005 Spell It Right (20) Coverage Results" MODIFIED="1533168299680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1001-1010" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1011_World_Cup_Betting__20_.coverage" NAME="1011 World Cup Betting (20) Coverage Results" MODIFIED="1533397306062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1011-1020" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1006_Sign_In_and_Sign_Out__25_.coverage" NAME="1006 Sign In and Sign Out (25) Coverage Results" MODIFIED="1533168369738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1001-1010" />
@@ -57,70 +58,36 @@
           <entry key="LICENSE" value="1" />
           <entry key="gitattributes" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="md" value="14" />
-          <entry key="py" value="20" />
+          <entry key="md" value="15" />
+          <entry key="py" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="14" />
+          <entry key="Markdown" value="15" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="20" />
+          <entry key="Python" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="68" />
-          <entry key="md" value="238" />
-          <entry key="py" value="6650" />
-          <entry key="txt" value="183" />
+          <entry key="md" value="256" />
+          <entry key="py" value="6928" />
+          <entry key="txt" value="185" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="238" />
-          <entry key="PLAIN_TEXT" value="183" />
-          <entry key="Python" value="6718" />
+          <entry key="Markdown" value="256" />
+          <entry key="PLAIN_TEXT" value="185" />
+          <entry key="Python" value="6996" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/考试复习指南.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="54" column="11" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="11" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practice/1061-1070/1065 A+B and C (64bit) (20).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <marker date="1533719457244" expanded="true" signature="58:63" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/1021-1030/1027 Colors in Mars (20).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="25" column="17" lean-forward="true" selection-end-line="38" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -162,8 +129,10 @@
         <option value="$PROJECT_DIR$/基础数据结构练习/test.py" />
         <option value="$PROJECT_DIR$/Practice/1001-1010/1002 A+B for Polynomials (25).py" />
         <option value="$PROJECT_DIR$/Practice/1011-1020/1012 The Best Rank (25).py" />
-        <option value="$PROJECT_DIR$/考试复习指南.md" />
         <option value="$PROJECT_DIR$/Practice/1061-1070/1065 A+B and C (64bit) (20).py" />
+        <option value="$PROJECT_DIR$/Practice/1021-1030/1.py" />
+        <option value="$PROJECT_DIR$/Practice/1021-1030/1023 Have Fun with Numbers (20).py" />
+        <option value="$PROJECT_DIR$/考试复习指南.md" />
       </list>
     </option>
   </component>
@@ -174,10 +143,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="87" />
-    <option name="y" value="90" />
-    <option name="width" value="979" />
-    <option name="height" value="1090" />
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -229,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1065 A+B and C (64bit) (20)">
+  <component name="RunManager" selected="Python.1023 Have Fun with Numbers (20)">
     <configuration name="1002 A+B for Polynomials (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT-Advanced-Level-Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1027 Colors in Mars (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1023 Have Fun with Numbers (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT-Advanced-Level-Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,7 +255,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1021-1030/1027 Colors in Mars (20).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1021-1030/1023 Have Fun with Numbers (20).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,19 +309,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1027 Colors in Mars (20)" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.1002 A+B for Polynomials (25)" />
       <item itemvalue="Python.1012 The Best Rank (25)" />
       <item itemvalue="Python.1065 A+B and C (64bit) (20)" />
+      <item itemvalue="Python.1023 Have Fun with Numbers (20)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1023 Have Fun with Numbers (20)" />
         <item itemvalue="Python.1065 A+B and C (64bit) (20)" />
         <item itemvalue="Python.1012 The Best Rank (25)" />
         <item itemvalue="Python.1002 A+B for Polynomials (25)" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.1027 Colors in Mars (20)" />
       </list>
     </recent_temporary>
   </component>
@@ -496,7 +464,21 @@
       <option name="project" value="LOCAL" />
       <updated>1533714054069</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="提交1065题代码">
+      <created>1533719556815</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1533719556816</updated>
+    </task>
+    <task id="LOCAL-00020" summary="提交1023题代码">
+      <created>1533720197469</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1533720197469</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -504,14 +486,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12466488" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12466488" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -551,7 +532,9 @@
     <MESSAGE value="修改考试复习指南.md" />
     <MESSAGE value="提交1002题代码" />
     <MESSAGE value="提交1012题代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交1012题代码" />
+    <MESSAGE value="提交1065题代码" />
+    <MESSAGE value="提交1023题代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交1023题代码" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -624,30 +607,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/考试复习指南.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="54" column="11" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/1021-1030/1027 Colors in Mars (20).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="25" column="17" lean-forward="true" selection-end-line="38" selection-end-column="10" />
+        <state relative-caret-position="57">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/1061-1070/1065 A+B and C (64bit) (20).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="87">
+          <caret line="3" column="11" lean-forward="true" selection-end-line="30" selection-end-column="10" />
           <folding>
             <marker date="1533719457244" expanded="true" signature="58:63" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/考试复习指南.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2070">
+            <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/1021-1030/1023 Have Fun with Numbers (20).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="21" column="23" lean-forward="true" selection-end-line="36" selection-end-column="10" />
         </state>
       </provider>
     </entry>
