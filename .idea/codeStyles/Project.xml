@@ -60,6 +60,14 @@
                   <option name="SMART_TABS" value="true" />
                 </value>
               </option>
+              <codeStyleSettings version="173" language="Hoi4">
+                <option name="OTHER_INDENT_OPTIONS">
+                  <value>
+                    <option name="USE_TAB_CHARACTER" value="true" />
+                    <option name="SMART_TABS" value="true" />
+                  </value>
+                </option>
+              </codeStyleSettings>
             </codeStyleSettings>
           </codeStyleSettings>
         </codeStyleSettings>
