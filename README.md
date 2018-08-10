@@ -25,12 +25,6 @@ Fundamentals Of Python: Data Structures(Kenneth A.Lambert)
 数据结构（C语言版）（严蔚敏、吴伟民）
 
 
-| Name | Academy | score | 
-| - | :-: | -: | 
-| Harry Potter | Gryffindor| 90 | 
-| Hermione Granger | Gryffindor | 100 | 
-| Draco Malfoy | Slytherin | 90 |
-
 
 
 
@@ -44,7 +38,7 @@ Fundamentals Of Python: Data Structures(Kenneth A.Lambert)
 
 
 	
-|提交成功	|对于判断、选择、填空题，系统已经接收到您的提交|
+|   提交成功    	|   对于判断、选择、填空题，系统已经接收到您的提交 |
 |稍后显示	|对于判断、选择、填空题，在题目集关闭之前，不显示判题结果|
 |已被覆盖	|对于判断、选择、填空题，该提交已经被您的当前提交所覆盖，系统将只评判题目集关闭前对该题目的最后一次提交|
 |等待评测	|评测系统还没有评测到这个提交，请稍候|
