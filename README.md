@@ -25,7 +25,16 @@ Fundamentals Of Python: Data Structures(Kenneth A.Lambert)
 数据结构（C语言版）（严蔚敏、吴伟民）
 
 
-| 结 果 | 说 明 | score | 
+| Name | Academy | score | 
+| - | :-: | -: | 
+| Harry Potter | Gryffindor| 90 | 
+| Hermione Granger | Gryffindor | 100 | 
+| Draco Malfoy | Slytherin | 90 |
+
+
+
+
+| 结 果 | 说 明 |
 | - | :-: |
 | Harry Potter | Gryffindor| 
 | Hermione Granger | Gryffindor | 
