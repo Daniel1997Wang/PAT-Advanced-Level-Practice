@@ -1,88 +1,65 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-def Rank_grade(list):
-    for i in range(len(list)):
-        list[i] = 100 - int(list[i])
-    list_sort = sorted(list)
-    for i in range(len(list)):
-        index = list_sort.index(list[i])
-        list[i] = index + 1
-    return list
-
 
 def main():
     #输入
-
-    Msg = []
     N = int(input(""))
+    Msg = []
     for i in range(N):
         Msg_N = []
         N_N = int(input(""))
         for j in range(N_N):
             msg = input("").split(" ")
+            msg[0] = int(msg[0])
+            msg[1] = int(msg[1])
+            msg.append((i+1))
             Msg_N.append(msg)
-
+        #数据预处理
+        Msg_N = sorted(Msg_N,key= lambda Msg_N :(-Msg_N[1],Msg_N[0]))
         Msg.append(Msg_N)
 
 
-    #对数据预处理
-    Msg_ID = []
-    Msg_grade = []
-    Msg_Tag = []
-    Msg_local_grade = []
-    for i in range(len(Msg)):
-        Msg_temp_grade = []
-        for j in range(len(Msg[i])):
-            Msg_ID.append(Msg[i][j][0])
-            Msg_grade.append(Msg[i][j][1])
-            Msg_temp_grade.append(Msg[i][j][1])
-            Msg_Tag.append(i+1)
-
-        Msg_local_grade.append(Msg_temp_grade)
-
-
     #操作、排序
-    Msg_local_rank = []
-    for i in range(len(Msg_local_grade)):
-        Msg_local_grade[i] = Rank_grade(Msg_local_grade[i])
-        for j in range(len(Msg_local_grade[i])):
-            Msg_local_rank.append(Msg_local_grade[i][j])
+    Result = []
+    #对local rank进行排序
+    for i in range(len(Msg)):
+        temp = Msg[i][0][1]
+        rank = 1
+        for j in range(len(Msg[i])):
+            if(Msg[i][j][1] != temp):
+               rank = j + 1
+            Msg[i][j].append(rank)
+            temp = Msg[i][j][1]
+            Result.append(Msg[i][j])
 
 
-    for i in range(len(Msg_ID)-1):
-        for j in range(len(Msg_ID)-i-1):
-            if(int(Msg_grade[j]) < int(Msg_grade[j+1])):
-                Msg_grade[j],Msg_grade[j+1] = Msg_grade[j+1],Msg_grade[j]
-                Msg_ID[j],Msg_ID[j+1] = Msg_ID[j+1],Msg_ID[j]
-                Msg_Tag[j],Msg_Tag[j+1] = Msg_Tag[j+1],Msg_Tag[j]
-                Msg_local_rank[j],Msg_local_rank[j+1] = Msg_local_rank[j+1],Msg_local_rank[j]
+    Result = sorted(Result,key = lambda Result: (-Result[1],Result[0]))
+    # 对fianl rank进行排序
+
+    temp = Result[0][1]
+    rank = 1
+    for i in range(len(Result)):
+        if(Result[i][1] != temp):
+            rank = i + 1
+
+        temp = Result[i][1]
+        Result[i][1] = rank
 
 
     #输出
-    temp = "101"
-    temp_rank = 0
-    print(len(Msg_ID))
-    for i in range(len(Msg_ID)):
-        rank = i + 1
+    print(len(Result))
+    for i in range(len(Result)):
         if(i != 0):
             print()
-        # 输出ID
-        print(Msg_ID[i],end="")
+        print(Result[i][0],end="")  # 输出ID
         print(" ",end="")
-        #输出总体排名
-        if(Msg_grade[i] == temp):
-            rank = temp_rank
-        print(rank,end="")
-        print(" ",end="")
-        #输出标签
-        print(Msg_Tag[i],end="")
-        print(" ",end="")
-        # 输出局部排名
-        print(Msg_local_rank[i],end="")
+        print(Result[i][1], end="") #输出总体排名
+        print(" ", end="")
+        print(Result[i][2], end="") #输出标签
+        print(" ", end="")
+        print(Result[i][3],end="")  # 输出局部排名
 
-        temp = Msg_grade[i]
-        temp_rank = rank
 
 
 if __name__ == "__main__":

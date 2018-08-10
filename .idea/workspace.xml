@@ -10,9 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6732de4a-ffa1-4700-b4a7-d52c92d39357" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practice/1021-1030/1025 PAT Ranking (25).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/1021-1030/1025 PAT Ranking (25).py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/1021-1030/1025 PAT Ranking (25).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +26,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1011_World_Cup_Betting__20_.coverage" NAME="1011 World Cup Betting (20) Coverage Results" MODIFIED="1533397306062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1011-1020" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1006_Sign_In_and_Sign_Out__25_.coverage" NAME="1006 Sign In and Sign Out (25) Coverage Results" MODIFIED="1533168369738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1001-1010" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1008_Elevator__20_.coverage" NAME="1008 Elevator (20) Coverage Results" MODIFIED="1533169490673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1001-1010" />
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1025_PAT_Ranking__25_.coverage" NAME="1025 PAT Ranking (25) Coverage Results" MODIFIED="1533741932026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1021-1030" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1025_PAT_Ranking__25_.coverage" NAME="1025 PAT Ranking (25) Coverage Results" MODIFIED="1533900096120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1021-1030" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1120_Friend_Numbers20_.coverage" NAME="1120 Friend Numbers（20 ） Coverage Results" MODIFIED="1533180888809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1111-1120" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$test.coverage" NAME="test Coverage Results" MODIFIED="1533555589708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础数据结构练习" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1027_Colors_in_Mars__20_.coverage" NAME="1027 Colors in Mars (20) Coverage Results" MODIFIED="1533442204427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1021-1030" />
@@ -40,18 +40,19 @@
     <session id="1343039879">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="5" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -60,14 +61,14 @@
           <entry key="gitattributes" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="md" value="16" />
-          <entry key="py" value="27" />
+          <entry key="py" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="16" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="27" />
+          <entry key="Python" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -75,15 +76,15 @@
           <entry key="Python Console" value="68" />
           <entry key="dummy" value="8" />
           <entry key="md" value="265" />
-          <entry key="py" value="8944" />
-          <entry key="txt" value="194" />
+          <entry key="py" value="10373" />
+          <entry key="txt" value="195" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="265" />
-          <entry key="PLAIN_TEXT" value="202" />
-          <entry key="Python" value="9012" />
+          <entry key="PLAIN_TEXT" value="203" />
+          <entry key="Python" value="10441" />
         </counts>
       </usages-collector>
     </session>
@@ -93,10 +94,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Practice/1021-1030/1025 PAT Ranking (25).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="53" column="40" lean-forward="true" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+            <state relative-caret-position="90">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding>
-                <marker date="1533741842392" expanded="true" signature="46:284" ph="..." />
+                <marker date="1533900326030" expanded="true" signature="47:48" ph="..." />
+                <marker date="1533900326030" expanded="true" signature="59:64" ph="..." />
               </folding>
             </state>
           </provider>
@@ -160,10 +162,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="643" />
-    <option name="y" value="101" />
-    <option name="width" value="978" />
-    <option name="height" value="1089" />
+    <option name="x" value="107" />
+    <option name="y" value="535" />
+    <option name="width" value="1512" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -171,7 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,27 +180,11 @@
               <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="1011-1020" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="1021-1030" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -516,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533722599684</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="修改1025题代码">
+      <created>1533742025723</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1533742025723</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -526,13 +518,13 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0844504" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11997319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.63538873" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39864865" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22922252" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39812332" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -575,7 +567,8 @@
     <MESSAGE value="提交1023题代码" />
     <MESSAGE value="修改1023题代码" />
     <MESSAGE value="修改1024题代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改1024题代码" />
+    <MESSAGE value="修改1025题代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改1025题代码" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -593,13 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" lean-forward="true" selection-end-line="53" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/2092153345/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="297" column="4" selection-start-line="297" selection-start-column="4" selection-end-line="297" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -686,12 +672,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/2092153345/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="517" column="4" selection-start-line="517" selection-start-column="4" selection-end-line="517" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/1021-1030/1025 PAT Ranking (25).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="53" column="40" lean-forward="true" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+        <state relative-caret-position="90">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
-            <marker date="1533741842392" expanded="true" signature="46:284" ph="..." />
+            <marker date="1533900326030" expanded="true" signature="47:48" ph="..." />
+            <marker date="1533900326030" expanded="true" signature="59:64" ph="..." />
           </folding>
         </state>
       </provider>
