@@ -61,6 +61,5 @@ def main():
         print(Result[i][3],end="")  # 输出局部排名
 
 
-
 if __name__ == "__main__":
     main()

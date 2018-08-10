@@ -10,8 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6732de4a-ffa1-4700-b4a7-d52c92d39357" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Practice/1031-1040/1032 Sharing (25).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/基础数据结构练习/Lacey.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PAT-Advanced-Level-Practice.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/PAT-Advanced-Level-Practice.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/1021-1030/1025 PAT Ranking (25).cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/1021-1030/1025 PAT Ranking (25).cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice/1021-1030/1025 PAT Ranking (25).py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/1021-1030/1025 PAT Ranking (25).py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +26,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1064_Complete_Binary_Search_Tree__30_.coverage" NAME="1064 Complete Binary Search Tree (30) Coverage Results" MODIFIED="1533911031195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1061-1070" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1024_Palindromic_Number__25_.coverage" NAME="1024 Palindromic Number (25) Coverage Results" MODIFIED="1533722545286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1021-1030" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$Lacey.coverage" NAME="Lacey Coverage Results" MODIFIED="1533909101820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础数据结构练习" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1005_Spell_It_Right__20_.coverage" NAME="1005 Spell It Right (20) Coverage Results" MODIFIED="1533168299680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1001-1010" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1011_World_Cup_Betting__20_.coverage" NAME="1011 World Cup Betting (20) Coverage Results" MODIFIED="1533397306062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1011-1020" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1006_Sign_In_and_Sign_Out__25_.coverage" NAME="1006 Sign In and Sign Out (25) Coverage Results" MODIFIED="1533168369738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1001-1010" />
@@ -30,6 +37,7 @@
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1120_Friend_Numbers20_.coverage" NAME="1120 Friend Numbers（20 ） Coverage Results" MODIFIED="1533180888809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1111-1120" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$test.coverage" NAME="test Coverage Results" MODIFIED="1533555589708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础数据结构练习" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1027_Colors_in_Mars__20_.coverage" NAME="1027 Colors in Mars (20) Coverage Results" MODIFIED="1533442204427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1021-1030" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1032_Sharing__25_.coverage" NAME="1032 Sharing (25) Coverage Results" MODIFIED="1533914651162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1031-1040" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1002_A_B_for_Polynomials__25_.coverage" NAME="1002 A+B for Polynomials (25) Coverage Results" MODIFIED="1533663481314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1001-1010" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1023_Have_Fun_with_Numbers__20_.coverage" NAME="1023 Have Fun with Numbers (20) Coverage Results" MODIFIED="1533721316979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1021-1030" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1113_Integer_Set_Partition25_.coverage" NAME="1113 Integer Set Partition（25 ） Coverage Results" MODIFIED="1533173573553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1111-1120" />
@@ -40,19 +48,19 @@
     <session id="1343039879">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
+          <entry key="project.closed" value="28" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="4" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.6" value="5" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -61,44 +69,45 @@
           <entry key="gitattributes" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="md" value="16" />
-          <entry key="py" value="28" />
+          <entry key="py" value="33" />
+          <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="16" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="28" />
+          <entry key="Python" value="33" />
+          <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="68" />
-          <entry key="dummy" value="8" />
+          <entry key="dummy" value="9" />
           <entry key="md" value="265" />
-          <entry key="py" value="10373" />
+          <entry key="py" value="11596" />
           <entry key="txt" value="195" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="265" />
-          <entry key="PLAIN_TEXT" value="203" />
-          <entry key="Python" value="10441" />
+          <entry key="PLAIN_TEXT" value="204" />
+          <entry key="Python" value="11664" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practice/1021-1030/1025 PAT Ranking (25).py">
+        <entry file="file://$PROJECT_DIR$/Practice/1031-1040/1032 Sharing (25).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="119">
+              <caret line="12" column="12" lean-forward="true" selection-end-line="43" selection-end-column="10" />
               <folding>
-                <marker date="1533900326030" expanded="true" signature="47:48" ph="..." />
-                <marker date="1533900326030" expanded="true" signature="59:64" ph="..." />
+                <marker date="1533914639113" expanded="true" signature="47:48" ph="..." />
               </folding>
             </state>
           </provider>
@@ -152,6 +161,10 @@
         <option value="$PROJECT_DIR$/Practice/1021-1030/1024 Palindromic Number (25).py" />
         <option value="$PROJECT_DIR$/考试复习指南.md" />
         <option value="$PROJECT_DIR$/Practice/1021-1030/1025 PAT Ranking (25).py" />
+        <option value="$PROJECT_DIR$/基础数据结构练习/Lacey.py" />
+        <option value="$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py" />
+        <option value="$PROJECT_DIR$/Practice/1031-1040/1032.py" />
+        <option value="$PROJECT_DIR$/Practice/1031-1040/1032 Sharing (25).py" />
       </list>
     </option>
   </component>
@@ -162,10 +175,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="107" />
-    <option name="y" value="535" />
-    <option name="width" value="1512" />
-    <option name="height" value="1090" />
+    <option name="x" value="712" />
+    <option name="y" value="31" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -173,6 +186,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,11 +194,32 @@
               <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="1031-1040" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="1061-1070" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="基础数据结构练习" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,51 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1025 PAT Ranking (25)">
-    <configuration name="1012 The Best Rank (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT-Advanced-Level-Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/1011-1020" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1011-1020/1012 The Best Rank (25).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1023 Have Fun with Numbers (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT-Advanced-Level-Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/1021-1030" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1021-1030/1023 Have Fun with Numbers (20).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1032 Sharing (25)">
     <configuration name="1024 Palindromic Number (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT-Advanced-Level-Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,7 +286,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1065 A+B and C (64bit) (20)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1032 Sharing (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT-Advanced-Level-Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/1031-1040" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1031-1040/1032 Sharing (25).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1064 Complete Binary Search Tree (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT-Advanced-Level-Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -308,7 +321,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1061-1070/1065 A+B and C (64bit) (20).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lacey" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT-Advanced-Level-Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/基础数据结构练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/基础数据结构练习/Lacey.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,19 +353,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1012 The Best Rank (25)" />
-      <item itemvalue="Python.1065 A+B and C (64bit) (20)" />
-      <item itemvalue="Python.1023 Have Fun with Numbers (20)" />
       <item itemvalue="Python.1024 Palindromic Number (25)" />
       <item itemvalue="Python.1025 PAT Ranking (25)" />
+      <item itemvalue="Python.Lacey" />
+      <item itemvalue="Python.1064 Complete Binary Search Tree (30)" />
+      <item itemvalue="Python.1032 Sharing (25)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1032 Sharing (25)" />
+        <item itemvalue="Python.1064 Complete Binary Search Tree (30)" />
+        <item itemvalue="Python.Lacey" />
         <item itemvalue="Python.1025 PAT Ranking (25)" />
         <item itemvalue="Python.1024 Palindromic Number (25)" />
-        <item itemvalue="Python.1023 Have Fun with Numbers (20)" />
-        <item itemvalue="Python.1065 A+B and C (64bit) (20)" />
-        <item itemvalue="Python.1012 The Best Rank (25)" />
       </list>
     </recent_temporary>
   </component>
@@ -508,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533742025723</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="修改1025题代码">
+      <created>1533900393967</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1533900393967</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -516,14 +558,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11997319" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15616623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22922252" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28686327" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39812332" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -634,13 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/1061-1070/1065 A+B and C (64bit) (20).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="11" lean-forward="true" selection-end-line="30" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/1021-1030/1023 Have Fun with Numbers (20).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -679,13 +713,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practice/1021-1030/1025 PAT Ranking (25).py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础数据结构练习/Lacey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/1061-1070/1065 A+B and C (64bit) (20).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-387">
+          <caret selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <caret line="3" lean-forward="true" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/1031-1040/1032 Sharing (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="12" lean-forward="true" selection-end-line="43" selection-end-column="10" />
           <folding>
-            <marker date="1533900326030" expanded="true" signature="47:48" ph="..." />
-            <marker date="1533900326030" expanded="true" signature="59:64" ph="..." />
+            <marker date="1533914639113" expanded="true" signature="47:48" ph="..." />
           </folding>
         </state>
       </provider>
