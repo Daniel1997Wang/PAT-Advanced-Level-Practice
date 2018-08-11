@@ -30,19 +30,7 @@ Fundamentals Of Python: Data Structures(Kenneth A.Lambert)
     <tr>
         <td>结 果</td>
         <td>说 明</td>
-    </tr>
-    <tr>
-        <td>提交成功</td>
-        <td>对于判断、选择、填空题，系统已经接收到您的提交</td>
-    </tr>
-    <tr>
-        <td>稍后显示</td>
-        <td>对于判断、选择、填空题，在题目集关闭之前，不显示判题结果</td>
-    </tr>
-    <tr>
-        <td>已被覆盖</td>
-        <td>对于判断、选择、填空题，该提交已经被您的当前提交所覆盖，系统将只评判题目集关闭前对该题目的最后一次提交</td>
-    </tr>    
+    </tr>  
     <tr>
         <td>等待评测</td>
         <td>评测系统还没有评测到这个提交，请稍候</td>

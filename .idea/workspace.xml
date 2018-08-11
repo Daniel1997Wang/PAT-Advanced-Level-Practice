@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6732de4a-ffa1-4700-b4a7-d52c92d39357" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
     <session id="1343039879">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
+          <entry key="project.closed" value="32" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="5" />
@@ -82,13 +81,13 @@
           <entry key="dummy" value="9" />
           <entry key="md" value="385" />
           <entry key="py" value="11596" />
-          <entry key="txt" value="227" />
+          <entry key="txt" value="246" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="385" />
-          <entry key="PLAIN_TEXT" value="236" />
+          <entry key="PLAIN_TEXT" value="255" />
           <entry key="Python" value="11664" />
         </counts>
       </usages-collector>
@@ -563,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533921236416</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="修改README.md&#10;增加了一些格式，同时增加常见错误类型">
+      <created>1533921789192</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1533921789192</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -571,7 +577,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16420911" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -626,7 +631,8 @@
     <MESSAGE value="修改1032题代码" />
     <MESSAGE value="提交1032题代码（C语言）" />
     <MESSAGE value="修改README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改README.md" />
+    <MESSAGE value="修改README.md&#10;增加了一些格式，同时增加常见错误类型" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改README.md&#10;增加了一些格式，同时增加常见错误类型" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
