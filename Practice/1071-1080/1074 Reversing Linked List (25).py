@@ -7,6 +7,8 @@ def main():
     next_address = input_msg[0]
     N = int(input_msg[1])
     K = int(input_msg[2])
+    if(K == 1):
+        K = N + 1
     if(N == 0):
         exit(0)
     msg = []
