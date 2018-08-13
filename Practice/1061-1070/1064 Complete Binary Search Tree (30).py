@@ -1,58 +1,46 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+H = [0, 1, 3, 7, 15, 31, 63, 127, 255, 511, 1023, 2047]
 
-class Node:
-    '''二叉搜索树节点的定义'''
-    def __init__(self, val):
-        self.val = val
-        self.left = None
-        self.right = None
+def find_root(List):
+    length = len(List)
+    for i in range(len(H)):
+        if(length < H[i]):
+            h = i
+            break
 
+    rest = length - H[h - 1]
+    if(rest < pow(2,h-2)):
+        right = 0
+    elif(rest >= pow(2,h-2)):
+        right = rest - pow(2,h-2)
 
-class Tree:
-
-    '''二叉搜索树操作'''
-    def add(self,root,val):
-        """二叉树插入操作"""
-        if root == None:
-            root = Node(val)
-        elif val < root.val:
-            root.left = self.add(root.left, val)
-        elif val > root.val:
-            root.right = self.add(root.right, val)
-        return root
+    index = length - 1 - H[h-2] - right
+    return List[index]
 
 
+def find_all_root(list):
+    # 找根节点
+    root = find_root(list)
+    print("root:", root)
+    index = list.index(root)
 
+    # 找左节点
+    temp_left = list[0:index]
+    root = find_root(temp_left)
+    print("root:", root)
 
-
-
-
-
-
-    def printTree(self, root):
-
-        # 打印二叉搜索树(中序打印，有序数列)
-        if root == None:
-            return
-
-        self.printTree(root.left)
-        print(root.val, end=' ')
-        self.printTree(root.right)
-
-
+    # 找右节点
+    temp_right = list[index + 1:len(list)]
+    root = find_root(temp_right)
+    print("root:", root)
 
 
 
 def main():
     List = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-    root = None
-    tree = Tree()
-    for val in List:
-        root = tree.add(root, val)
-    print('中序打印二叉搜索树：', end=' ')
-    tree.printTree(root)
 
+    find_all_root(List)
 
 
 

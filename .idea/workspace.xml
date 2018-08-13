@@ -9,11 +9,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6732de4a-ffa1-4700-b4a7-d52c92d39357" name="Default Changelist" comment="2018年8月12日日志&#10;1、修改了部分私人练习文件&#10;2、首次提交 1064(Python)&#10;1064 Complete Binary Search Tree (30)&#10;部分正确&#9;22&#9;1064&#9;Python (python 3)&#10;3、更新部分文件">
-      <change afterPath="$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py" afterDir="false" />
+    <list default="true" id="6732de4a-ffa1-4700-b4a7-d52c92d39357" name="Default Changelist" comment="2018年8月13日日志&#10;1、首次提交 1009(Python)&#10;1009 Product of Polynomials (25)&#10;部分正确&#9;15&#9;1009&#9;Python (python 3)&#9;26 ms&#10;2、更新部分文件">
+      <change afterPath="$PROJECT_DIR$/Practice/1001-1010/1009 Product of Polynomials (25).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/常规数据结构练习/Dijkstra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/考试复习指南.md" beforeDir="false" afterPath="$PROJECT_DIR$/考试复习指南.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +23,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1064_Complete_Binary_Search_Tree__30_.coverage" NAME="1064 Complete Binary Search Tree (30) Coverage Results" MODIFIED="1534087831541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1061-1070" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1009_Product_of_Polynomials__25_.coverage" NAME="1009 Product of Polynomials (25) Coverage Results" MODIFIED="1534170789545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1001-1010" />
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1064_Complete_Binary_Search_Tree__30_.coverage" NAME="1064 Complete Binary Search Tree (30) Coverage Results" MODIFIED="1534092633578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1061-1070" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1024_Palindromic_Number__25_.coverage" NAME="1024 Palindromic Number (25) Coverage Results" MODIFIED="1533722545286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1021-1030" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$Lacey.coverage" NAME="Lacey Coverage Results" MODIFIED="1533973312042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/基础数据结构练习" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1005_Spell_It_Right__20_.coverage" NAME="1005 Spell It Right (20) Coverage Results" MODIFIED="1533168299680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1001-1010" />
@@ -50,12 +52,12 @@
     <session id="1343039879">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="39" />
+          <entry key="project.closed" value="40" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="6" />
           <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="5" />
@@ -63,7 +65,7 @@
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="40" />
+          <entry key="project.opened" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -72,17 +74,17 @@
           <entry key="cpp" value="2" />
           <entry key="gitattributes" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="md" value="28" />
-          <entry key="py" value="56" />
+          <entry key="md" value="29" />
+          <entry key="py" value="58" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C++" value="2" />
-          <entry key="Markdown" value="28" />
+          <entry key="Markdown" value="29" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="56" />
+          <entry key="Python" value="58" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -90,66 +92,22 @@
         <counts>
           <entry key="Python Console" value="68" />
           <entry key="dummy" value="13" />
-          <entry key="md" value="442" />
-          <entry key="py" value="17022" />
-          <entry key="txt" value="380" />
+          <entry key="md" value="454" />
+          <entry key="py" value="18738" />
+          <entry key="txt" value="396" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="442" />
-          <entry key="PLAIN_TEXT" value="393" />
-          <entry key="Python" value="17090" />
+          <entry key="Markdown" value="454" />
+          <entry key="PLAIN_TEXT" value="409" />
+          <entry key="Python" value="18806" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="871">
-              <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-              <folding>
-                <element signature="e#68#165#0" />
-                <marker date="1534073348596" expanded="true" signature="243:248" ph="..." />
-                <marker date="1534073348596" expanded="true" signature="504:511" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/数据结构平常小练习/BST.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
-              <folding>
-                <element signature="e#255#461#0" />
-                <element signature="e#494#702#0" />
-                <element signature="e#732#823#0" />
-                <element signature="e#853#946#0" />
-                <element signature="e#981#1644#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构平常小练习/Tree_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1320">
-              <caret line="82" column="14" lean-forward="true" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="26" />
-              <folding>
-                <element signature="e#215#973#0" />
-                <element signature="e#1015#1471#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -203,14 +161,15 @@
         <option value="$PROJECT_DIR$/Practice/1091-1100/1097 Deduplication on a Linked List (25).py" />
         <option value="$PROJECT_DIR$/学习笔记.md" />
         <option value="$PROJECT_DIR$/Practice/1071-1080/1074 Reversing Linked List (25).py" />
-        <option value="$PROJECT_DIR$/考试复习指南.md" />
         <option value="$PROJECT_DIR$/常规数据结构练习/Tree.py" />
         <option value="$PROJECT_DIR$/常规数据结构练习/Tree_Demo.py" />
         <option value="$PROJECT_DIR$/平常小练习/Tree_demo.py" />
         <option value="$PROJECT_DIR$/平常小练习/Dijkstra.py" />
         <option value="$PROJECT_DIR$/数据结构平常小练习/Tree_demo.py" />
-        <option value="$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py" />
         <option value="$PROJECT_DIR$/数据结构平常小练习/BST.py" />
+        <option value="$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py" />
+        <option value="$PROJECT_DIR$/Practice/1001-1010/1009 Product of Polynomials (25).py" />
+        <option value="$PROJECT_DIR$/考试复习指南.md" />
       </list>
     </option>
   </component>
@@ -220,9 +179,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="853" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="893" />
+    <option name="y" value="88" />
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
@@ -232,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,17 +201,13 @@
             <path>
               <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
               <item name="数据结构平常小练习" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,7 +229,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1064 Complete Binary Search Tree (30)">
+  <component name="RunManager" selected="Python.1009 Product of Polynomials (25)">
+    <configuration name="1009 Product of Polynomials (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT-Advanced-Level-Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/1001-1010" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1001-1010/1009 Product of Polynomials (25).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1064 Complete Binary Search Tree (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT-Advanced-Level-Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,28 +266,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1074 Reversing Linked List (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT-Advanced-Level-Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/1071-1080" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1071-1080/1074 Reversing Linked List (25).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -387,19 +341,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1074 Reversing Linked List (25)" />
       <item itemvalue="Python.Tree" />
       <item itemvalue="Python.Tree_demo" />
       <item itemvalue="Python.1064 Complete Binary Search Tree (30)" />
       <item itemvalue="Python.BST" />
+      <item itemvalue="Python.1009 Product of Polynomials (25)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1009 Product of Polynomials (25)" />
         <item itemvalue="Python.1064 Complete Binary Search Tree (30)" />
         <item itemvalue="Python.BST" />
         <item itemvalue="Python.Tree_demo" />
         <item itemvalue="Python.Tree" />
-        <item itemvalue="Python.1074 Reversing Linked List (25)" />
       </list>
     </recent_temporary>
   </component>
@@ -661,22 +615,28 @@
       <option name="project" value="LOCAL" />
       <updated>1533989368143</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="2018年8月12日日志&#10;1、修改了部分私人练习文件&#10;2、首次提交 1064(Python)&#10;1064 Complete Binary Search Tree (30)&#10;部分正确&#9;0&#9;1064&#9;Python (python 3)&#10;3、更新部分文件">
+      <created>1534087857633</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1534087857633</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="78000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
+    <frame x="715" y="71" width="1552" height="880" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1816354" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16733602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3243968" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4104278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39812332" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -701,7 +661,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="新增一个Excel表，用来记录所有的题目的情况" />
     <MESSAGE value="提交1113题，并新增考试复习大纲文件" />
     <MESSAGE value="提交1113题" />
     <MESSAGE value="提交1120题" />
@@ -726,7 +685,8 @@
     <MESSAGE value="commit 1052(Python)&#10;1074 Reversing Linked List (25)&#10;2018/8/11 17:06:09&#9;部分正确&#9;20&#9;1074&#9;Python (python 3)&#9;24 ms" />
     <MESSAGE value="first commit 1097(Python)&#10;1097 Deduplication on a Linked List (25)&#10;部分正确&#9;13&#9;1097&#9;Python (python 3)&#9;24 ms" />
     <MESSAGE value="2018年8月11日日志&#10;修改 1074(Python)&#10;1074 Reversing Linked List (25)&#10;部分正确&#9;22&#9;1074&#9;Python (python 3)&#10;更改部分文件的名字" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018年8月11日日志&#10;修改 1074(Python)&#10;1074 Reversing Linked List (25)&#10;部分正确&#9;22&#9;1074&#9;Python (python 3)&#10;更改部分文件的名字" />
+    <MESSAGE value="2018年8月12日日志&#10;1、修改了部分私人练习文件&#10;2、首次提交 1064(Python)&#10;1064 Complete Binary Search Tree (30)&#10;部分正确&#9;0&#9;1064&#9;Python (python 3)&#10;3、更新部分文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018年8月12日日志&#10;1、修改了部分私人练习文件&#10;2、首次提交 1064(Python)&#10;1064 Complete Binary Search Tree (30)&#10;部分正确&#9;0&#9;1064&#9;Python (python 3)&#10;3、更新部分文件" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -858,16 +818,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/考试复习指南.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/常规数据结构练习/Tree_Demo.py" />
     <entry file="file://$PROJECT_DIR$/常规数据结构练习/Dijkstra.py" />
     <entry file="file://$PROJECT_DIR$/常规数据结构练习/Tree.py" />
@@ -892,39 +842,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构平常小练习/BST.py" />
     <entry file="file://$PROJECT_DIR$/数据结构平常小练习/Tree_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1320">
-          <caret line="82" column="14" lean-forward="true" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="26" />
-          <folding>
-            <element signature="e#215#973#0" />
-            <element signature="e#1015#1471#0" />
-          </folding>
+        <state relative-caret-position="-150">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="871">
-          <caret line="55" column="17" lean-forward="true" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-          <folding>
-            <element signature="e#68#165#0" />
-            <marker date="1534073348596" expanded="true" signature="243:248" ph="..." />
-            <marker date="1534073348596" expanded="true" signature="504:511" ph="..." />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="33" column="15" lean-forward="true" selection-end-line="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构平常小练习/BST.py">
+    <entry file="file://$PROJECT_DIR$/考试复习指南.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/1001-1010/1009 Product of Polynomials (25).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+        <state relative-caret-position="180">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           <folding>
-            <element signature="e#255#461#0" />
-            <element signature="e#494#702#0" />
-            <element signature="e#732#823#0" />
-            <element signature="e#853#946#0" />
-            <element signature="e#981#1644#0" />
+            <marker date="1534170985611" expanded="true" signature="284:1182" ph="..." />
           </folding>
         </state>
       </provider>
