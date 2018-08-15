@@ -97,3 +97,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+数据结构平常小练习/Dijkstra.py
+数据结构平常小练习/Tree_demo.py
