@@ -1,46 +1,36 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-H = [0, 1, 3, 7, 15, 31, 63, 127, 255, 511, 1023, 2047]
-
-def find_root(List):
-    length = len(List)
-    for i in range(len(H)):
-        if(length < H[i]):
-            h = i
-            break
-
-    rest = length - H[h - 1]
-    if(rest < pow(2,h-2)):
-        right = 0
-    elif(rest >= pow(2,h-2)):
-        right = rest - pow(2,h-2)
-
-    index = length - 1 - H[h-2] - right
-    return List[index]
+class Node:
+    def __init__(self,root,left,right):
+        self.root = root
+        self.left = left
+        self.right = right
 
 
-def find_all_root(list):
-    # 找根节点
-    root = find_root(list)
-    print("root:", root)
-    index = list.index(root)
+def get_rest(N):
+    Number = [1, 2, 4, 8, 16, 32, 64, 128, 256, 512, 1024, 2048]
+    for i in range(20):
+        N = N - Number[i]
+        if(N <= 0):
+            return (N + Number[i])
 
-    # 找左节点
-    temp_left = list[0:index]
-    root = find_root(temp_left)
-    print("root:", root)
 
-    # 找右节点
-    temp_right = list[index + 1:len(list)]
-    root = find_root(temp_right)
-    print("root:", root)
-
+def Find_root(List):
+    N = len(List)
+    rest = get_rest(N)
+    root = int((N - rest)/2 + 1)+rest
+    print(root)
+    print(List[:root])
+    left = Find_root(List[:root])
+    right = Find_root(List[root+1:])
+    return Node(root,left,right)
 
 
 def main():
     List = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    Find_root(List)
 
-    find_all_root(List)
+
 
 
 
