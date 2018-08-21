@@ -9,12 +9,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6732de4a-ffa1-4700-b4a7-d52c92d39357" name="Default Changelist" comment="2018年8月20日日志&#10;1、首次提交 1020(Python3)&#10;1020 Tree Traversals (25)&#10;答案正确&#9;25&#9;1020&#9;Python (python 3)&#9;24 ms&#10;2、更新部分文件">
-      <change afterPath="$PROJECT_DIR$/Practice/1001-1010/1004 Counting Leaves (30).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/1011-1020/1020 Tree Traversals (25).py" afterDir="false" />
+    <list default="true" id="6732de4a-ffa1-4700-b4a7-d52c92d39357" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Practice/1021-1030/1028 List Sorting (25).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PAT-Advanced-Level-Practice.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/PAT-Advanced-Level-Practice.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/考试复习指南.md" beforeDir="false" afterPath="$PROJECT_DIR$/考试复习指南.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1028_List_Sorting__25_.coverage" NAME="1028 List Sorting (25) Coverage Results" MODIFIED="1534864758606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1021-1030" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1024_Palindromic_Number__25_.coverage" NAME="1024 Palindromic Number (25) Coverage Results" MODIFIED="1533722545286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1021-1030" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1020_Tree_Traversals__25_.coverage" NAME="1020 Tree Traversals (25) Coverage Results" MODIFIED="1534756947622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1011-1020" />
     <SUITE FILE_PATH="coverage/PAT_Advanced_Level_Practice$1074_Reversing_Linked_List__25_.coverage" NAME="1074 Reversing Linked List (25) Coverage Results" MODIFIED="1533989110412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/1071-1080" />
@@ -55,11 +56,11 @@
     <session id="1343039879">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="50" />
+          <entry key="project.closed" value="51" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="7" />
-          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.4" value="2" />
@@ -68,7 +69,7 @@
           <entry key="project.open.time.7" value="8" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="51" />
+          <entry key="project.opened" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -77,17 +78,17 @@
           <entry key="cpp" value="2" />
           <entry key="gitattributes" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="md" value="32" />
-          <entry key="py" value="77" />
+          <entry key="md" value="33" />
+          <entry key="py" value="79" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="C++" value="2" />
-          <entry key="Markdown" value="32" />
+          <entry key="Markdown" value="33" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="77" />
+          <entry key="Python" value="79" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -95,32 +96,22 @@
         <counts>
           <entry key="Python Console" value="68" />
           <entry key="dummy" value="13" />
-          <entry key="md" value="472" />
-          <entry key="py" value="23178" />
+          <entry key="md" value="481" />
+          <entry key="py" value="23584" />
           <entry key="txt" value="430" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="472" />
+          <entry key="Markdown" value="481" />
           <entry key="PLAIN_TEXT" value="443" />
-          <entry key="Python" value="23246" />
+          <entry key="Python" value="23652" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practice/1011-1020/1020 Tree Traversals (25).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -182,13 +173,14 @@
         <option value="$PROJECT_DIR$/Practice/1001-1010/1009 Product of Polynomials (25).py" />
         <option value="$PROJECT_DIR$/数据结构平常小练习/Lacey.py" />
         <option value="$PROJECT_DIR$/数据结构平常小练习/77.py" />
-        <option value="$PROJECT_DIR$/考试复习指南.md" />
         <option value="$PROJECT_DIR$/数据结构平常小练习/Tree_demo.py" />
         <option value="$PROJECT_DIR$/Practice/1011-1020/1020 Tree Traversals (25).py" />
         <option value="$PROJECT_DIR$/Practice/1061-1070/1064 Complete Binary Search Tree (30).py" />
         <option value="$PROJECT_DIR$/数据结构平常小练习/DFS.py" />
         <option value="$PROJECT_DIR$/Practice/1001-1010/1004 Counting Leaves (30).py" />
         <option value="$PROJECT_DIR$/Practice/1011-1020/1019 General Palindromic Number (20).py" />
+        <option value="$PROJECT_DIR$/Practice/1021-1030/1028 List Sorting (25).py" />
+        <option value="$PROJECT_DIR$/考试复习指南.md" />
       </list>
     </option>
   </component>
@@ -199,12 +191,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="866" />
-    <option name="y" value="68" />
-    <option name="width" value="1940" />
-    <option name="height" value="1103" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -216,17 +210,6 @@
             <path>
               <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PAT-Advanced-Level-Practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PAT-Advanced-Level-Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
-              <item name="1011-1020" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,7 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1004 Counting Leaves (30)">
+  <component name="RunManager" selected="Python.1028 List Sorting (25)">
     <configuration name="1004 Counting Leaves (30)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT-Advanced-Level-Practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -291,6 +274,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1011-1020/1020 Tree Traversals (25).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1028 List Sorting (25)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT-Advanced-Level-Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/1021-1030" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/1021-1030/1028 List Sorting (25).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,42 +348,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lacey" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT-Advanced-Level-Practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构平常小练习" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构平常小练习/Lacey.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.1064 Complete Binary Search Tree (30)" />
-      <item itemvalue="Python.Lacey" />
       <item itemvalue="Python.77" />
       <item itemvalue="Python.1020 Tree Traversals (25)" />
       <item itemvalue="Python.1004 Counting Leaves (30)" />
+      <item itemvalue="Python.1028 List Sorting (25)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1028 List Sorting (25)" />
         <item itemvalue="Python.1004 Counting Leaves (30)" />
         <item itemvalue="Python.1064 Complete Binary Search Tree (30)" />
         <item itemvalue="Python.1020 Tree Traversals (25)" />
         <item itemvalue="Python.77" />
-        <item itemvalue="Python.Lacey" />
       </list>
     </recent_temporary>
   </component>
@@ -668,7 +651,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534513845693</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="2018年8月20日日志&#10;1、首次提交 1020(Python3)&#10;1020 Tree Traversals (25)&#10;答案正确&#9;25&#9;1020&#9;Python (python 3)&#9;24 ms&#10;2、更新部分文件">
+      <created>1534776489795</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1534776489795</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -676,15 +666,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24128686" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17895442" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37265417" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39733332" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33914208" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39701897" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -708,7 +697,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="更改相关路径文件" />
     <MESSAGE value="修改第1011题目代码（删除冗余的代码及注释）" />
     <MESSAGE value="提交第1011题目代码" />
     <MESSAGE value="修改README.md文件" />
@@ -733,7 +721,8 @@
     <MESSAGE value="2018年8月13日日志&#10;1、首次提交 1009(Python)&#10;1009 Product of Polynomials (25)&#10;部分正确&#9;15&#9;1009&#9;Python (python 3)&#9;26 ms&#10;2、更新部分文件" />
     <MESSAGE value="2018年8月15日日志&#10;1、首次提交 1074(C++)&#10;1009 Product of Polynomials (25)&#10;答案正确&#9;25&#9;1074&#9;C++ (g++)&#9;98 ms&#10;2、更新部分文件" />
     <MESSAGE value="2018年8月17日日志&#10;1、首次提交 1015(C++)&#10;1015 Reversible Primes (20)&#10;答案正确&#9;20&#9;1015&#9;C++ (g++)&#9;3 ms&#10;2、更新部分文件&#10;祝七夕节快乐" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018年8月17日日志&#10;1、首次提交 1015(C++)&#10;1015 Reversible Primes (20)&#10;答案正确&#9;20&#9;1015&#9;C++ (g++)&#9;3 ms&#10;2、更新部分文件&#10;祝七夕节快乐" />
+    <MESSAGE value="2018年8月20日日志&#10;1、首次提交 1020(Python3)&#10;1020 Tree Traversals (25)&#10;答案正确&#9;25&#9;1020&#9;Python (python 3)&#9;24 ms&#10;2、更新部分文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018年8月20日日志&#10;1、首次提交 1020(Python3)&#10;1020 Tree Traversals (25)&#10;答案正确&#9;25&#9;1020&#9;Python (python 3)&#9;24 ms&#10;2、更新部分文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -776,13 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="34" lean-forward="true" selection-end-line="47" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/1021-1030/1027 Colors in Mars (20).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -902,16 +884,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构平常小练习/77.py" />
-    <entry file="file://$PROJECT_DIR$/考试复习指南.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数据结构平常小练习/Lacey.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -951,20 +923,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-          <folding>
-            <marker date="1534773665701" expanded="true" signature="46:50" ph="..." />
-            <marker date="1534773665701" expanded="true" signature="574:595" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice/1011-1020/1019 General Palindromic Number (20).py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/1011-1020/1019 General Palindromic Number (20).py" />
     <entry file="file://$PROJECT_DIR$/Practice/1011-1020/1020 Tree Traversals (25).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/考试复习指南.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/1021-1030/1027 Colors in Mars (20).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice/1021-1030/1028 List Sorting (25).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <marker date="1534864807405" expanded="true" signature="220:655" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
